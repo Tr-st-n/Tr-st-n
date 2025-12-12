@@ -1,5 +1,5 @@
 Hello world, my name is Tristan.
 
-I am currently working on [D2-WORX](https://github.com/DSCV-io/D2-WORX).
+I am currently working on [D2-WORX](https://github.com/DCSV-io/D2-WORX).
 
-[DCSV](https://github.com/DSCV-io) is my GitHub org.
+[DCSV](https://github.com/DCSV-io) is my GitHub org.
